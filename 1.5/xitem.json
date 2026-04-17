@@ -1,0 +1,34 @@
+{
+  "config": {
+    "items": [
+      {
+        "infra": {
+          "name": "axku5", 
+          "display": "AXKU5 Evaluation Platform", 
+          "revision": "1.5", 
+          "description": "AXKU5 Evaluation Platform", 
+          "company": "ashington", 
+          "company_display": "Ashington", 
+          "author": "Ashington", 
+          "contributors": [
+            {
+              "group": "Ashington", 
+              "url": "https://github.com/Ashington258"
+            }
+          ], 
+          "category": "Evaluation Boards",
+          "logo": "axku5_image.jpg",
+          "website": "https://github.com/Ashington258", 
+          "search-keywords": [
+            "axku5", 
+            "ashington", 
+            "board", 
+            "Evaluation Boards"
+          ]
+        }
+      }
+    ]
+  }, 
+  "_major": 1, 
+  "_minor": 0
+}
